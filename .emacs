@@ -237,7 +237,5 @@
 ;; (add-hook 'org-mode-hook 'org-fragtog-mode)
 
 ;; vvv place all autosave/backup files in the same directory vvv
-(setq backup-directory-alist
-      `((".*" . "/tmp/")))
 (setq auto-save-file-name-transforms
-      `((".*" "/tmp/" t)))
+      `((".*" "/home/shaneallcroft/.emacs.d/backups/" t)))

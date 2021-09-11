@@ -18,7 +18,7 @@ alias matrix="source ~/.matrix.sh"
 alias lambda_matrix="source ~/.lambda_matrix.sh"
 alias piano="flatpak run org.sugarlabs.MusicKeyboard"
 alias lsd="source ~/software_source/misc_open_source/lsd/lsd-sim"
-alias youtube_audio="youtube-dl --audio-format best -x"
+alias youtube_audio="cd ~/Music;youtube-dl --audio-format best -x"
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 

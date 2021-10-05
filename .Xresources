@@ -1,8 +1,9 @@
 !! Colorscheme
 
 ! special
-*.foreground: #a3b1b1
-*.background: #141c21
+! a4bd00 <<<<<< previous foreground
+*.foreground: #7fffd4
+*.background: #073642
 *.cursorColor: #afbfbf
 
 ! black
@@ -22,7 +23,7 @@
 *.color11: #d9a400
 
 ! blue
-*.color4: #2587cc
+*.color4: #2181c
 *.color12: #2ca2f5
 
 ! magenta

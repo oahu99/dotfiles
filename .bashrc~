@@ -26,7 +26,6 @@ alias pomodoro="echo 'pomodoro start!';sleep 1500 && mpg123 ~/Music/Bonkimiru.mp
 alias define="sdcv -c" # for looking up words in the dictionary
 alias cueasf="mv ./*~ ~/.emacs.d/backups;mv ./*# ~/.emacs.d/backups" # acronymn for Clean Up Emacs Autosave Files
 alias donut="python ~/misc/donut.py"
-alias musikcube="musikcube.app"
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 

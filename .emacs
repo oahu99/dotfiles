@@ -48,7 +48,7 @@
  '(cua-read-only-cursor-color "#7F9F7F")
  '(custom-enabled-themes '(misterioso))
  '(custom-safe-themes
-   '("0ab2aa38f12640ecde12e01c4221d24f034807929c1f859cbca444f7b0a98b3a" "51ec7bfa54adf5fff5d466248ea6431097f5a18224788d0bd7eb1257a4f7b773" "13a8eaddb003fd0d561096e11e1a91b029d3c9d64554f8e897b2513dbf14b277" "0fffa9669425ff140ff2ae8568c7719705ef33b7a927a0ba7c5e2ffcfac09b75" "c433c87bd4b64b8ba9890e8ed64597ea0f8eb0396f4c9a9e01bd20a04d15d358" "00445e6f15d31e9afaa23ed0d765850e9cd5e929be5e8e63b114a3346236c44c" "285d1bf306091644fb49993341e0ad8bafe57130d9981b680c1dbd974475c5c7" "830877f4aab227556548dc0a28bf395d0abe0e3a0ab95455731c9ea5ab5fe4e1" "2809bcb77ad21312897b541134981282dc455ccd7c14d74cc333b6e549b824f3" "7f1d414afda803f3244c6fb4c2c64bea44dac040ed3731ec9d75275b9e831fe5" "f981114d6bd345c574f63c1ea17d6e4d07bfeb82f9301831efdbb41f7a9ffa2f" default))
+   '("efcecf09905ff85a7c80025551c657299a4d18c5fcfedd3b2f2b6287e4edd659" "f5b6be56c9de9fd8bdd42e0c05fecb002dedb8f48a5f00e769370e4517dde0e8" "0ab2aa38f12640ecde12e01c4221d24f034807929c1f859cbca444f7b0a98b3a" "51ec7bfa54adf5fff5d466248ea6431097f5a18224788d0bd7eb1257a4f7b773" "13a8eaddb003fd0d561096e11e1a91b029d3c9d64554f8e897b2513dbf14b277" "0fffa9669425ff140ff2ae8568c7719705ef33b7a927a0ba7c5e2ffcfac09b75" "c433c87bd4b64b8ba9890e8ed64597ea0f8eb0396f4c9a9e01bd20a04d15d358" "00445e6f15d31e9afaa23ed0d765850e9cd5e929be5e8e63b114a3346236c44c" "285d1bf306091644fb49993341e0ad8bafe57130d9981b680c1dbd974475c5c7" "830877f4aab227556548dc0a28bf395d0abe0e3a0ab95455731c9ea5ab5fe4e1" "2809bcb77ad21312897b541134981282dc455ccd7c14d74cc333b6e549b824f3" "7f1d414afda803f3244c6fb4c2c64bea44dac040ed3731ec9d75275b9e831fe5" "f981114d6bd345c574f63c1ea17d6e4d07bfeb82f9301831efdbb41f7a9ffa2f" default))
  '(fci-rule-color "#4F4F4F")
  '(font-use-system-font t)
  '(highlight-changes-colors '("#DC8CC3" "#bbb0cb"))
@@ -124,7 +124,7 @@
  '(org-support-shift-select 'always)
  '(package-selected-package\.s '(multiple-cursors))
  '(package-selected-packages
-   '(dracula-theme cider slime ox-hugo org-page org2blog sx org-tree-slide org-fragtog windresize ## jupyter solarized-theme auctex expand-region emms use-package adaptive-wrap org term-keys multiple-cursors))
+   '(solarized-theme dracula-theme cider slime ox-hugo org-page org2blog sx org-tree-slide org-fragtog windresize ## jupyter auctex expand-region emms use-package adaptive-wrap org term-keys multiple-cursors))
  '(pos-tip-background-color "#4F4F4F")
  '(pos-tip-foreground-color "#FFFFEF")
  '(scroll-bar-mode nil)
